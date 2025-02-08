@@ -3,9 +3,7 @@ Author: HongyeLuo hongye_luo@smbu.edu.cn
 Date: 2025-02-07 14:46:33
 LastEditors: HongyeLuo hongye_luo@smbu.edu.cn
 LastEditTime: 2025-02-07 23:05:26
-FilePath:
-Description:
-
+Description: 配置 Flask 应用的日志记录
 Copyright (c) 2025 by AustinLo, All Rights Reserved.
 '''
 import logging

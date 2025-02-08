@@ -3,9 +3,7 @@ Author: HongyeLuo hongye_luo@smbu.edu.cn
 Date: 2025-02-07 14:45:25
 LastEditors: HongyeLuo hongye_luo@smbu.edu.cn
 LastEditTime: 2025-02-07 21:01:42
-FilePath: \flask_worker\blueprints\chat_bp.py
-Description:
-
+Description: Chat 蓝图, 生成对话及其相关 routes
 Copyright (c) 2025 by AustinLo, All Rights Reserved.
 '''
 from flask import Blueprint, request, jsonify, current_app

@@ -3,9 +3,7 @@ Author: HongyeLuo hongye_luo@smbu.edu.cn
 Date: 2025-02-07 14:45:50
 LastEditors: HongyeLuo hongye_luo@smbu.edu.cn
 LastEditTime: 2025-02-07 21:02:12
-FilePath: \flask_worker\services\llm_service.py
-Description:
-
+Description: LLM 服务模块, 用于处理对话生成请求
 Copyright (c) 2025 by AustinLo, All Rights Reserved.
 '''
 from openai import OpenAI

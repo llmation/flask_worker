@@ -3,7 +3,6 @@ Author: HongyeLuo hongye_luo@smbu.edu.cn
 Date: 2025-02-07 14:44:44
 LastEditors: HongyeLuo hongye_luo@smbu.edu.cn
 LastEditTime: 2025-02-07 20:23:06
-FilePath: \flask_worker\config.py
 Description: 模型配置文件
 Copyright (c) 2025 by AustinLo, All Rights Reserved.
 '''
