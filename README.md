@@ -37,3 +37,11 @@ flask_worker/
 ├── .env               # 环境变量文件
 
 └── README.md          # 项目说明文档
+
+## TODO list
+
+- llm_service.py 和 config.py 模型列表结构优化
+
+- 流式对话
+
+- 其他功能
